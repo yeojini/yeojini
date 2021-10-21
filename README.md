@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
-  <h3 align="center">:open_hands: Abount Me :open_hands: </h3>
+  <h3 align="center">:open_hands: About Me :open_hands: </h3>
   <a href="https://velog.io/@yeogenius"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <!--
 **yeojini/yeojini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
